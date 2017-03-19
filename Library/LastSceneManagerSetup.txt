@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Oleh_Chaus_Test.unity
+  isLoaded: 1
+  isActive: 1

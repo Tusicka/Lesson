@@ -1,0 +1,19 @@
+public class KontrolnaRobota : Monobehaviour
+{
+public string Difficulty = "SLOZHNAAA";
+private bool IsUnderstand = true;
+private int op[ = 56;
+public float iop = 45.45f
+
+void dfghj
+{}
+public bool fghj()
+{return IsUnderstand;}
+private string lol()
+{return Difficulty;}
+public int ghjkl()
+{return op[;}
+private float ghjk()
+{return iop;}
+}
+}
